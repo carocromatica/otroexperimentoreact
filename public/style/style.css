@@ -1,0 +1,20 @@
+.navy{
+  background-color: #2d2e35 !important;
+
+  
+}
+
+nav .button-collapse {
+  float: right!important;
+}
+
+.loguito:first-child{
+  background-image: url(https://i.imgur.com/Z4AELwX.png)!important;
+  background-size: 52px;
+  background-repeat: no-repeat;
+}
+
+hide-on-med-and-down{
+  background-color: #2d2e35 !important;
+
+}
